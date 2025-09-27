@@ -1,0 +1,508 @@
+0 HEAD
+1 SOUR Gemini AI
+2 NAME Tholen Genealogy Data
+1 DEST GEDCOM
+1 DATE 27 SEP 2025
+1 FILE Tholen.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE This GEDCOM file was generated based on data extracted from multiple historical documents pertaining to the Tholen region. Data includes information from a memorial stone, a list of births, and a ship register. Relationships are established based on direct statements or strong inferences (e.g., patronymics).
+
+0 @I1@ INDI
+1 NAME Ieman /de Waier/
+1 SEX M
+1 DEAT
+2 DATE 1 MAY 1672
+2 SOUR Document 1: Memorial Stone
+1 OCCU Dyckgrave van Scherpenisse ende Westkercke
+2 SOUR Document 1: Memorial Stone
+1 FAMS @F1@
+1 FAMS @F2@
+
+0 @I2@ INDI
+1 NAME Catarina /vander Hagen/
+1 SEX F
+1 DEAT
+2 DATE 20 APR 1655
+2 SOUR Document 1: Memorial Stone
+1 FAMS @F1@
+
+0 @I3@ INDI
+1 NAME Dingna /de Waier/
+1 SEX F
+1 DEAT
+2 DATE 12 JUN 1655
+2 SOUR Document 1: Memorial Stone
+1 FAMC @F1@
+
+0 @I4@ INDI
+1 NAME Adriana /de Ridder/
+1 SEX F
+1 DEAT
+2 DATE 1 MAR 1662
+2 SOUR Document 1: Memorial Stone
+1 FAMC @F3@
+1 FAMS @F2@
+
+0 @I5@ INDI
+1 NAME Martin /de Ridder/
+1 SEX M
+1 OCCU Capitein, Commandeur van Liefkenshoeck
+2 SOUR Document 1: Memorial Stone
+1 FAMS @F3@
+
+0 @I6@ INDI
+1 NAME Dingna /de Waier/
+1 SEX F
+1 DEAT
+2 DATE 17 MAY 1658
+2 SOUR Document 1: Memorial Stone
+1 FAMC @F2@
+
+0 @I7@ INDI
+1 NAME Sabina /de Waier/
+1 SEX F
+1 DEAT
+2 DATE 6 OCT 1659
+2 SOUR Document 1: Memorial Stone
+1 FAMC @F2@
+
+0 @I8@ INDI
+1 NAME Sabina /de Waier/
+1 SEX F
+1 DEAT
+2 DATE 26 AUG 1662
+2 PLAC Liefkenshoeck
+2 SOUR Document 1: Memorial Stone
+1 BURI
+2 PLAC Liefkenshoeck
+2 SOUR Document 1: Memorial Stone
+1 FAMC @F2@
+
+0 @I9@ INDI
+1 NAME Johannis /van Dalen/
+1 SEX M
+1 FAMS @F4@
+
+0 @I10@ INDI
+1 NAME Apolonia Johanna /Geluk/
+1 SEX F
+1 FAMS @F4@
+
+0 @I11@ INDI
+1 NAME Johannis /van Dalen/
+1 SEX M
+1 BIRT
+2 DATE 15 SEP 1861
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+1 FAMS @F5@
+
+0 @I12@ INDI
+1 NAME Izak Marinus /van Dalen/
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1854
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+1 FAMS @F6@
+
+0 @I13@ INDI
+1 NAME Apolonia Neeltje /van Dalen/
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 1882
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+1 FAMS @F7@
+
+0 @I14@ INDI
+1 NAME Maatje /van Dalen/
+1 SEX F
+1 BIRT
+2 DATE 6 DEC 1863
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+1 FAMS @F8@
+
+0 @I15@ INDI
+1 NAME Johanna Kornelia /van Dalen/
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1858
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+1 FAMS @F9@
+
+0 @I16@ INDI
+1 NAME Kornelis Izak /van Dalen/
+1 SEX M
+1 BIRT
+2 DATE 15 SEP 1848
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F4@
+
+0 @I17@ INDI
+1 NAME Maria Izabella /Noom/
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1874
+2 PLAC Poortvliet, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F5@
+
+0 @I18@ INDI
+1 NAME Geertje Martha /Herselman/
+1 SEX F
+1 BIRT
+2 DATE 29 JUN 1869
+2 PLAC Dinteloord, North Brabant, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F6@
+
+0 @I19@ INDI
+1 NAME Anthonie /Geluk/
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1880
+2 PLAC Tholen, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F7@
+1 NOTE This Anthonie Geluk, born 1880, is listed as a child-in-law in the van Dalen family photo. An older Anthonie Geluk, born 1812, is also listed in the documents.
+
+0 @I20@ INDI
+1 NAME Willem Frederik /de Vos/
+1 SEX M
+1 BIRT
+2 DATE 13 SEP 1859
+2 PLAC Colijnsplaat, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F8@
+
+0 @I21@ INDI
+1 NAME Pieter /van Dijke/
+1 SEX M
+1 BIRT
+2 DATE 26 MAR 1849
+2 PLAC Sint Philipsland, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F9@
+
+0 @I22@ INDI
+1 NAME Hendrik Clement /de Jonge/
+1 SEX M
+1 FAMS @F10@
+1 NOTE Pictured in a ferrotype (photo on tin) with his children. The mother is not pictured or named.
+
+0 @I23@ INDI
+1 NAME Antje Huiberdina /de Jonge/
+1 SEX F
+1 BIRT
+2 DATE 11 JAN 1880
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F10@
+
+0 @I24@ INDI
+1 NAME Hendrina Willemina /de Jonge/
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1886
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F10@
+
+0 @I25@ INDI
+1 NAME Willemina /de Jonge/
+1 SEX F
+1 BIRT
+2 DATE 11 JAN 1885
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F10@
+
+0 @I26@ INDI
+1 NAME Benjamin /de Jonge/
+1 SEX M
+1 BIRT
+2 DATE 16 NOV 1883
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F10@
+1 NOTE A B. de Jonge is also listed as owner of boat Th.34 with nickname Poepje. Could be the same person.
+
+0 @I27@ INDI
+1 NAME Johanna /de Jonge/
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1882
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F10@
+
+0 @I28@ INDI
+1 NAME Benjamin Willem /Schot/
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1840
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 NOTE Owned boat Th.12, "Niets zonder Gods zegen", and was part owner of Th.25. Nickname "De Spiering" is associated with boat Th.12.
+2 SOUR Document 4: Typed Ship Register (Tholen)
+
+0 @I29@ INDI
+1 NAME Cornelis Jan /Schot/
+1 SEX M
+1 NAME Cornelis Jan Schot /Pupje/
+2 TYPE nickname
+1 NICK Pupje
+1 NOTE Owner of boat Th.31, "vrouw Wilhelmina". The name is specified as "Cornelis Jan Schot Szn." indicating his father was Simon.
+2 SOUR Document 4: Typed Ship Register (Tholen)
+1 FAMC @F11@
+
+0 @I30@ INDI
+1 NAME Simon /Schot/
+1 SEX M
+1 FAMS @F11@
+1 NOTE This is an inferred person based on the patronymic 'Szn.' (zoon van Simon) for Cornelis Jan Schot.
+
+0 @I31@ INDI
+1 NAME Jan /Schot/
+1 SEX M
+1 NAME Jan Schot /De Poeper/
+2 TYPE nickname
+1 NICK De Poeper
+1 NOTE Owner of boat Th.32 (Roefboot/Hoogaars) after 1904.
+2 SOUR Document 4: Typed Ship Register (Tholen)
+
+0 @I32@ INDI
+1 NAME Hendrik Clement /de Jonge/
+1 SEX M
+1 NAME Hendrik Clement de Jonge /Poepje/
+2 TYPE nickname
+1 NICK Poepje
+1 NOTE Owner of boat Th.34 (Hoogaars).
+2 SOUR Document 4: Typed Ship Register (Tholen)
+
+0 @I33@ INDI
+1 NAME Jacoba /Bastiaanse/
+1 SEX F
+1 BIRT
+2 DATE 20 JUN 1779
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I34@ INDI
+1 NAME Cornelis /van Beveren/
+1 SEX M
+1 BIRT
+2 DATE 8 MAR 1880
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I35@ INDI
+1 NAME Danker /van Beveren/
+1 SEX M
+1 BIRT
+2 DATE 19 AUG 1861
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I36@ INDI
+1 NAME Hendrika /Boomsluiter/
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1892
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I37@ INDI
+1 NAME Pieternella Elizabeth /Elenbaas/
+1 SEX F
+1 BIRT
+2 DATE 10 NOV 1882
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I38@ INDI
+1 NAME Kaatje /Neele/
+1 SEX F
+1 BIRT
+2 DATE 1 JUN 1864
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I39@ INDI
+1 NAME Adriana Abramina /van der Slikke/
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1865
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I40@ INDI
+1 NAME Adriana Cornelia /Stoutjesdijk/
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 1880
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I41@ INDI
+1 NAME Cornelis Jan /Verstraate/
+1 SEX M
+1 BIRT
+2 DATE 13 SEP 1852
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I42@ INDI
+1 NAME Jacob /van Zorge/
+1 SEX M
+1 BIRT
+2 DATE 28 FEB 1855
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I43@ INDI
+1 NAME Cornelis /van Oeveren/
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1858
+2 PLAC Stavenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I44@ INDI
+1 NAME Lena Cornelia /van Beveren/
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 1886
+2 PLAC Scherpenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @I45@ INDI
+1 NAME Marinus Adriaan /Geuze/
+1 SEX M
+1 BIRT
+2 DATE 22 FEB 1917
+2 PLAC Poortvliet, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMC @F12@
+
+0 @I46@ INDI
+1 NAME Emmericus Carel Willem Adriaan /Geuze/
+1 SEX M
+1 BIRT
+2 DATE 13 JAN 1888
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F12@
+
+0 @I47@ INDI
+1 NAME Elizabeth Cornelia /Hartog/
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1891
+2 PLAC Scherpenisse, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F12@
+
+0 @I48@ INDI
+1 NAME Kornelis /Geuze/
+1 SEX M
+1 BIRT
+2 DATE 3 DEC 1844
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F13@
+
+0 @I49@ INDI
+1 NAME Maria /Potter/
+1 SEX F
+1 BIRT
+2 DATE 30 SEP 1845
+2 PLAC Oud-Vossemeer, Zeeland, Netherlands
+2 SOUR Document 2: Numbered List of Names and Birth Dates
+1 FAMS @F13@
+
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 SOUR Document 1: Memorial Stone
+
+0 @F2@ FAM
+1 HUSB @I1@
+1 WIFE @I4@
+1 CHIL @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+1 SOUR Document 1: Memorial Stone
+
+0 @F3@ FAM
+1 HUSB @I5@
+1 CHIL @I4@
+1 SOUR Document 1: Memorial Stone
+
+0 @F4@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I17@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F6@ FAM
+1 HUSB @I12@
+1 WIFE @I18@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F7@ FAM
+1 HUSB @I19@
+1 WIFE @I13@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F8@ FAM
+1 HUSB @I20@
+1 WIFE @I14@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F9@ FAM
+1 HUSB @I21@
+1 WIFE @I15@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F10@ FAM
+1 HUSB @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F11@ FAM
+1 HUSB @I30@
+1 CHIL @I29@
+1 NOTE Inferred family from patronymic Szn. (son of Simon).
+
+0 @F12@ FAM
+1 HUSB @I46@
+1 WIFE @I47@
+1 CHIL @I45@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 @F13@ FAM
+1 HUSB @I48@
+1 WIFE @I49@
+1 SOUR Document 2: Numbered List of Names and Birth Dates
+
+0 TRLR
